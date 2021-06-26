@@ -1,6 +1,6 @@
 # PayFlow
 
-Primeira NLW com Flutter.
+Primeira NLW com Flutter. 🚀💜
 
 
 
